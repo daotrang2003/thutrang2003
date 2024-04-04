@@ -1,0 +1,84 @@
+body
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    background:url("../Đào\ Thị\ Thu\ Trang_21051901_kiemtra/image/nen.png")
+}
+h1
+{
+    text-align: center;
+    font-size: 34px;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: -19px;
+}
+h5
+{
+    text-align: center;
+    color: blue;
+    font-size: 17px;
+    padding: -16px;
+    margin-bottom: 17px;
+}
+.text
+{
+    font-style: italic;
+}
+.khung
+{
+    width: 943px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(22, 22, 243);
+    font-weight: bold;
+    font-size: 16px;
+}
+.dong-trai
+{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.dong-phai
+{
+    display:inline-block;
+    margin-left:260px;
+    cursor: pointer;
+}
+.cot1 {
+    width: 720px;
+    float: left;
+}
+
+.cot2 
+{
+    width: 190px;
+    float:right;
+}
+.column1
+{
+    width: 720px;
+    padding: 5px;
+    background-color: white;
+    margin: 15px 0;
+}
+.column2
+{
+    width: 190px;
+    padding: 5px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: -8px;
+}
+.anh
+{
+    padding-left: 116px;
+    padding-right: 50px;
+}
+.text1
+{
+    font-weight:bold;
+    text-align: center;
+
+}
